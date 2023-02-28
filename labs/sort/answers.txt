@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: its O value being n² makes it slow on random or reversed numbers but it is really fast on the sorted number files due to its omega n.
+
+sort2 uses: merge sort
+
+How do you know?: overall faster and behaves the same in any given order.
+
+sort3 uses: selection sort
+
+How do you know?: overall slower in any given order.
